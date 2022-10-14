@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 Linear Regression to Predict MPG | Summary Statistics on Suspension Coils | T-Test on Suspension Coils |  Design a Study Comparing the MechaCar to the Competition
-Chick to view the R-script: [link](https://github.com/pranavspatel/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.Rscript.R)
+
+[R-script Link](https://github.com/pranavspatel/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.Rscript.R)
 
 ## Project Overview
 The goal of the project is to analyze metrics that can affect the manufacturing a new car prototype and compare vehicle performance across different manufacturer lots. These metrics include vehicle length, weight, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
